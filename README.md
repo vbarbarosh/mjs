@@ -1,4 +1,4 @@
-mjs
+A thin wrapper for [Mocha](https://mochajs.org/)
 
 ## Installation
 
